@@ -1,0 +1,7 @@
+opencv_python==4.5.4.58
+
+numpy==1.13.3
+
+playsound==1.2.2
+
+imutils==0.5.3
